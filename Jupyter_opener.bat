@@ -1,4 +1,4 @@
-@echo on
+@echo off
 title Jupyter Lab
 :Path
 set /p direc="Where do you want to open "
