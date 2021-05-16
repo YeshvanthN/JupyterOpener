@@ -1,6 +1,6 @@
 @echo off
 title Jupyter Lab
-set direc="C:\Jupyter Lab"
+set direc="E:\Jupyter Lab"
 IF EXIST %direc% (CALL :CON) ELSE (echo.
 mkdir %direc%)
 :CON
